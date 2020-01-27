@@ -46,7 +46,7 @@ let Animal = {
     weight: "120 kg"
 };
 
-console.log(Animal["Height"]);
+console.log(Animal["height"]);
 
 
 /* Excercise 6: Create a function that asks for name and returns 
