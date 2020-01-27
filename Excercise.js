@@ -60,7 +60,7 @@ function askname(){
 
 askname();
 
-// Excercise 6:
+// Excercise 7:
 
 // let X= 25 ,Y = 25;
 /* if you include the above statement in the code then only
@@ -83,7 +83,7 @@ askname();
 
 // additionofage();
 
-/* ANSWER 7 : 
+/* Final Answer
 --> THE LOGICAL ANSWER WHAT I THINK IS THAT THE PROMPT
     COMMAND IS USED TO SHOW THE MESSAGE THAT IS TYPED IN AS IT IS 
 
